@@ -9,10 +9,10 @@ Customized by
 Tarikul Islam
 www.tarikul.com
 
-Instructions
-1. Go to your laravel root directory
-2. Coppy Paste all the files and folder in the laravel root directory
-3. add following code in the routes.php
+Instructions<br/>
+1. Go to your laravel root directory <br/>
+2. Coppy Paste all the files and folder in the laravel root directory<br/>
+3. add following code in the routes.php<br/>
 
 Route::get('admintheme', function()
 {
